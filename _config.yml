@@ -8,5 +8,5 @@ permalink: "/:title:output_ext"
 
 markdown: kramdown
 
-destination: _site
+destination: docs
 
