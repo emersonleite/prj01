@@ -1,10 +1,12 @@
 title: Recollate jekyll+webpack test
 email: github@recollate.com
 description: ""
-url: ""
+url: "https://emersonleite.github.io"
+baseurl: "/"
+
 twitter_username: recollateagency
 github_username:  recollate
-permalink: "/"
+permalink: "/:title:output_ext/"
 
 markdown: kramdown
 
