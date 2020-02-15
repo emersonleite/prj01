@@ -4,7 +4,7 @@ description: ""
 url: ""
 twitter_username: recollateagency
 github_username:  recollate
-permalink: "/:title:output_ext"
+permalink: "/"
 
 markdown: kramdown
 
